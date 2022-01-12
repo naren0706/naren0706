@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naren0706" alt="naren0706" /></a> </p>
 
-- 🔭 I’m currently working on [WeatherApp](https://weatherapp-007.netlify.app)
+- 🔭 I’m currently working on [WeatherApp](https://weatherapp-20.netlify.app)
 
 - 🌱 I’m currently learning **ReactJs**
 
