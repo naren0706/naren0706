@@ -60,9 +60,11 @@
 <div align="center">
     
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-</div>
 <hr>
+</div>
 <div align=center>
+<img src="https://github.com/naren0706/naren0706/blob/main/daftpunktocat-guy.gif" height="100px">
 <img align="center" src="https://camo.githubusercontent.com/688fa8b7af3ebd17a81d06ba5ab0e489469e251e9fb39d54d330ba7169e19475/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f366f7a75486378547456574a4a6e33322f67697068792e676966" alt="image not available" height="100px"> 
+<img src="https://github.com/naren0706/naren0706/blob/main/daftpunktocat-thomas.gif" height="100px">
 </div>
 <hr>
