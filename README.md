@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narxn.7) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Narenthra-Kishore) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/narenthra-kishore) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/naren0706) 
 </div>
 
-# 💫About Me :
+# [💫About Me](https://narenthrakishore.netlify.app/) :
 
 - 🔭 I’m currently working on **Algorithmic problems and Data Structure**
 
@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Fullstack**
 
-- 📫 How to reach me **Narenthrakishhore@gmail.com**
+- 📫 How to reach me **narenthrakishhore@gmail.com**
 <br>
 <br>
 
